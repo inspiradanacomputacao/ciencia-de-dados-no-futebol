@@ -22,5 +22,5 @@ Repositório sobre Ciência de Dados no Futebol
 
 
 # Podcast
-
+- [Tecnologia no Futebol: As transformações no esporte](https://open.spotify.com/episode/73QvIBQn78npNFmPW9gNSv?si=f7aef4241e894eaa)
 - [Panorama sobre Ciência de Dados: carreira, hype,entrevista de emprego e uso de dados no esporte](https://open.spotify.com/episode/6CXvbBrp1cxFipkwDb5HOo?si=2d23c50453794bd2)
