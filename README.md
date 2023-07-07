@@ -13,13 +13,22 @@ Repositório sobre Ciência de Dados no Futebol
 - [Game Plan: What AI can do for Football, and What Football can do for AI](https://jair.org/index.php/jair/article/view/12505/26683)
 - [The Application of Machine Learning Techniques for Predicting Match Results in Team Sport: A Review](https://jair.org/index.php/jair/article/view/13509/26786)
 - [Is AI Changing Football?](https://medium.com/mlearning-ai/is-ai-changing-football-123386582c9b)
+- [Como a ciência de dados fez do Liverpool o melhor time de futebol do mundo](https://www.startse.com/artigos/ciencia-de-dados-liverpool/)
+- [Heading Exposure in Elite Football (Soccer): A Study in Adolescent, Young Adult, and Adult Male and Female Players](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9390232/)
+- [Aproveitando o poder da ciência de dados nos esportes](https://hackernoon.com/pt/aproveitando-o-poder-da-ci%C3%AAncia-de-dados-nos-esportes)
+- [Inteligência Artificial Aplicada à previsão de jogos de futebol](https://bdm.unb.br/bitstream/10483/23782/1/2018_LauraDefrancoFerreiraPeconick.pdf)
+- [Inteligência artificial explicável para análise
+de partidas de futebol](https://www.lume.ufrgs.br/bitstream/handle/10183/218992/001122357.pdf)
+- [Anais 2023 - International Workshop on Computer Vision in Sports (CVsports)](https://openaccess.thecvf.com/CVPR2023_workshops/CVSports)
+- [Anais 2022 - International Workshop on Computer Vision in Sports (CVsports)](https://openaccess.thecvf.com/CVPR2022_workshops/CVSports)
+- [Anais 2021 - International Workshop on Computer Vision in Sports (CVsports)](https://openaccess.thecvf.com/CVPR2022_workshops/CVSports)
+
 
 # Base de dados
 - [StatsBomb](https://github.com/statsbomb/open-data)
 - [FBREF](https://fbref.com/pt/)
 - [Footstats](https://www.footstats.com.br/)
 - [SoccerNet](https://www.soccer-net.org/)
-
 
 # Vídeos
 
