@@ -3,6 +3,7 @@ Repositório sobre Ciência de Dados no Futebol
 
 - [Artigos](#artigos)
 - [Base de dados](#base-de-dados)
+- [Cursos](#cursos)
 - [Eventos](#eventos)
 - [Podcast](#podcast)
 - [Vídeos](#vídeos)
@@ -31,6 +32,14 @@ de partidas de futebol](https://www.lume.ufrgs.br/bitstream/handle/10183/218992/
 - [Footstats](https://www.footstats.com.br/)
 - [SoccerNet](https://www.soccer-net.org/)
 
+# Cursos
+- [[CBF] Workshop Ciência de Dados no Futebol](https://www.cbf.com.br/cbfacademy/pt-br/cursos/89-ciencia-de-dados-no-futebol)
+- [[StatsBomb] Introduction to
+Football Analytics](https://statsbomb.com/courses/introduction-to-football-analytics/)
+- [[Futebol Interativo] Especialização em Análise de Dados](https://futebolinterativo.com/cursos/analise-de-dados/)
+- [[Futebol Interativo] Especialização em Big Data, Analytics e Mercado](https://futebolinterativo.com/cursos/big-data-analytics-e-mercado/)
+- [[Futebol Interativo] Bootcamp Ciência de DAdos](https://futebolinterativo.com/cursos/bootcamp/)
+  
 # Eventos
 - [StatsBomb Conference](https://statsbomb.com/events/)
 - [International Workshop on Computer Vision in Sports (CVsports)](https://vap.aau.dk/cvsports/)
