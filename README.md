@@ -10,6 +10,8 @@ Repositório sobre Ciência de Dados no Futebol
 
 - [Advancing sports analytics through AI research](https://www.deepmind.com/blog/advancing-sports-analytics-through-ai-research)
 - [Game Plan: What AI can do for Football, and What Football can do for AI](https://jair.org/index.php/jair/article/view/12505/26683)
+- [The Application of Machine Learning Techniques for Predicting Match Results in Team Sport: A Review](https://jair.org/index.php/jair/article/view/13509/26786)
+- [Is AI Changing Football?](https://medium.com/mlearning-ai/is-ai-changing-football-123386582c9b)
 
 
 # Vídeos
