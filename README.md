@@ -2,7 +2,7 @@
 Repositório sobre Ciência de Dados no Futebol
 
 - [Artigos](#artigos)
-- Base de dados(#base-de-dados)
+- [Base de dados](#base-de-dados)
 - [Podcast](#podcast)
 - [Vídeos](#vídeos)
 
