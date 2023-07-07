@@ -18,6 +18,8 @@ Repositório sobre Ciência de Dados no Futebol
 - [StatsBomb](https://github.com/statsbomb/open-data)
 - [FBREF](https://fbref.com/pt/)
 - [Footstats](https://www.footstats.com.br/)
+- [SoccerNet](https://www.soccer-net.org/)
+
 
 # Vídeos
 
