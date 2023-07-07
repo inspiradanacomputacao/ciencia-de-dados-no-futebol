@@ -3,6 +3,7 @@ Repositório sobre Ciência de Dados no Futebol
 
 - [Artigos](#artigos)
 - [Base de dados](#base-de-dados)
+- [Eventos](#eventos)
 - [Podcast](#podcast)
 - [Vídeos](#vídeos)
 
@@ -29,6 +30,11 @@ de partidas de futebol](https://www.lume.ufrgs.br/bitstream/handle/10183/218992/
 - [FBREF](https://fbref.com/pt/)
 - [Footstats](https://www.footstats.com.br/)
 - [SoccerNet](https://www.soccer-net.org/)
+
+# Eventos
+- [StatsBomb Conference](https://statsbomb.com/events/)
+- [International Workshop on Computer Vision in Sports (CVsports)](https://vap.aau.dk/cvsports/)
+  
 
 # Vídeos
 
