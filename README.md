@@ -1,8 +1,16 @@
 # Ciência de Dados no Futebol
 Repositório sobre Ciência de Dados no Futebol
 
+- [Artigos](#artigos)
 - [Podcast](#podcast)
 - [Vídeos](#vídeos)
+
+
+# Artigos
+
+- [Advancing sports analytics through AI research](https://www.deepmind.com/blog/advancing-sports-analytics-through-ai-research)
+- [Game Plan: What AI can do for Football, and What Football can do for AI](https://jair.org/index.php/jair/article/view/12505/26683)
+
 
 # Vídeos
 
