@@ -2,6 +2,7 @@
 Repositório sobre Ciência de Dados no Futebol
 
 - [Artigos](#artigos)
+- Base de dados(#base-de-dados)
 - [Podcast](#podcast)
 - [Vídeos](#vídeos)
 
@@ -13,6 +14,10 @@ Repositório sobre Ciência de Dados no Futebol
 - [The Application of Machine Learning Techniques for Predicting Match Results in Team Sport: A Review](https://jair.org/index.php/jair/article/view/13509/26786)
 - [Is AI Changing Football?](https://medium.com/mlearning-ai/is-ai-changing-football-123386582c9b)
 
+# Base de dados
+- [StatsBomb](https://github.com/statsbomb/open-data)
+- [FBREF](https://fbref.com/pt/)
+- [Footstats](https://www.footstats.com.br/)
 
 # Vídeos
 
